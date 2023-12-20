@@ -30,6 +30,22 @@ Méthodes formelles appliquées
 ### Publications
 Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/productions-scientifiques/publications/?code=3056&nom=Hurault%20Aur%E9lie) mais aussi ici [DBLP](https://dblp.org/pid/66/957.html). 
 
+## Enseignement
+- Algorithme et programmation :
+  - Technologies objet
+  - Programmation fonctionnelle
+- Théorie de langages / Compilation
+  - Automates finis déterministes, non déterminisme, minimisation, expressions régulières
+  - Grammaires formelles, contextuelles, algébriques, linéaires
+  - Automates à piles, Machine de Turing
+  - ADR, grammaires LL(1), schéma de traduction
+  - Compilation
+- Spécifications formelles
+  - Simulation / bissimulation
+  - Systèmes de transistions
+  - Utilisation de TLA+ en TP
+
+
 ## Contact 
 - :telephone_receiver: +33 (0)5 34 32 22 02
 - :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
