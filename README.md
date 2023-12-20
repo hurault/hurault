@@ -8,5 +8,5 @@
 - Monitrice à l'ENSEEIHT, Toulouse, France -- 1ier oct. 2003 - 1ier sept. 2006 
 
 ## Contact ##
-- :telephone_receiver: +33 (0)5 34 32 22 02
-- :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
+ :telephone_receiver: +33 (0)5 34 32 22 02
+ :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
