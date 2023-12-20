@@ -21,7 +21,11 @@ Méthodes formelles appliquées
   - Grille de calcul
 - Composition de services
 
-
+### Habilitation à Diriger des Recherches
+- Soutenue le 06/04/2018
+- Titre : "Formalisations pour les compositions de services"
+- Manuscrit : [pdf](https://github.com/hurault/hurault/blob/main/hdr.pdf)
+- Présentation : [pdf](https://github.com/hurault/hurault/blob/main/presentation-hdr.pdf)
 
 ## Contact 
 - :telephone_receiver: +33 (0)5 34 32 22 02
