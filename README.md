@@ -28,7 +28,7 @@ Méthodes formelles appliquées
 - Présentation : [pdf](https://github.com/hurault/hurault/blob/main/presentation-hdr.pdf)
 
 ### Publications
-Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/productions-scientifiques/publications/?code=3056&nom=Hurault%20Aur%E9lie) mais aussi ici [DBLP] (https://dblp.org/pid/66/957.html). 
+Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/productions-scientifiques/publications/?code=3056&nom=Hurault%20Aur%E9lie) mais aussi ici [DBLP](https://dblp.org/pid/66/957.html). 
 
 ## Contact 
 - :telephone_receiver: +33 (0)5 34 32 22 02
