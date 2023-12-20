@@ -1,4 +1,4 @@
-### Maître de conférences (HDR) - Toulouse INP / IRIT ###
+# Maître de conférences (HDR) - Toulouse INP / IRIT #
 
 ## Mini-CV ##
 - Maître de conférences à l'IRIT - ENSEEIHT - Équipe ACADIE -- depuis novembre 2007
