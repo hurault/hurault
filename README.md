@@ -5,9 +5,24 @@
 - Chercheuse invitée au [NII](www.nii.ac.jp), Tokyo, Japon -- 15 mars - 20 oct. 2007 (7 mois)
 - Attachée Temporaire d'Enseignement et de Recherche à l'ENSEEIHT, Toulouse, France -- 1ier sept. 2006 - 14 mars 2007
 - Allocataire de recherche MENRT à l'IRIT, Toulouse, France -- 1ier oct. 2003 - 1ier sept. 2006
-- Monitrice à l'ENSEEIHT, Toulouse, France -- 1ier oct. 2003 - 1ier sept. 2006 
+- Monitrice à l'ENSEEIHT, Toulouse, France -- 1ier oct. 2003 - 1ier sept. 2006
+
+## Recherche ##
+# Domaines de recherche #
+Méthodes formelles appliquées 
+- Intelligence artificielle
+  - Certification d'algorithmes d'explicabilité
+- Systèmes distribués 
+  - Formalisation des systèmes distribués
+  - Communication assynchrone
+- Algèbre linaire
+  - Courtage de services en calcul scientifique
+  - Unification modulo une théorie équationelle
+  - Grille de calcul
+- Composition de services
+
+
 
 ## Contact ##
- :telephone_receiver: +33 (0)5 34 32 22 02
- 
- :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
+- :telephone_receiver: +33 (0)5 34 32 22 02
+- :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
