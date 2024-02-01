@@ -60,3 +60,9 @@ Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/producti
 ## Contact 
 - :telephone_receiver: +33 (0)5 34 32 22 02
 - :email: hurault@(REMOVE THIS ANTISPAM)enseeiht.fr
+
+
+## Recrutement
+- Offre de stage de M2 [pdf](https://github.com/hurault/hurault/blob/main/m2.pdf)
+- Offre de thèse [pdf](https://github.com/hurault/hurault/blob/main/PhD.pdf)
+- Offre de postdoctorat sur la certaification d'algorithmes d'explicabilité de l'IA
