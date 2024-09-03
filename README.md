@@ -1,4 +1,4 @@
-# Professeure - Toulouse INP / IRIT 
+is # Professeure - Toulouse INP / IRIT 
 
 ## Mini-CV 
 - Professeure à l'[IRIT](https://www.irit.fr/) - Toulouse INP [ENSEEIHT](https://www.enseeiht.fr/fr/index.html) - Équipe [ACADIE](https://www.irit.fr/departement/fiabilite-des-systemes-et-des-logiciels/equipe-acadie/) -- depuis septembre 2024
@@ -48,8 +48,8 @@ Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/producti
 
 ## Responsabilités
 - Responsabilités administratives liées à l'enseignement
-  - Co-directrice adjointe du département Sciences du Numérique de l'ENSEEIHT
-  - Responsable de la formation Informatique et Réseaux par la voie de l'apprentissage du département Sciences du Numérique de l'ENSEEIHT
+  - Co-directrice adjointe du département Sciences du Numérique de l'ENSEEIHT depuis septembre 2022
+  - Responsable de la formation Informatique et Réseaux par la voie de l'apprentissage du département Sciences du Numérique de l'ENSEEIHT (septembre 2029 - septembre 2024)
   - Responsable des relations internationales pour le départements Informatique et Mathématiques Appliquées de l'ENSEEIHT (2011-2017).
   - Membre fondateur de la formation par apprentissage en Informatique et Réseaux de l'ENSEEIHT
   - Membre du conseil de département du département Sciences du Numérique de l'ENSEEIHT.
