@@ -1,4 +1,4 @@
-is # Professeure - Toulouse INP / IRIT 
+# Professeure - Toulouse INP / IRIT 
 
 ## Mini-CV 
 - Professeure à l'[IRIT](https://www.irit.fr/) - Toulouse INP [ENSEEIHT](https://www.enseeiht.fr/fr/index.html) - Équipe [ACADIE](https://www.irit.fr/departement/fiabilite-des-systemes-et-des-logiciels/equipe-acadie/) -- depuis septembre 2024
