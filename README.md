@@ -53,7 +53,7 @@ Toutes mes publications sont disponibles ici [IRIT](https://www.irit.fr/producti
 ## Responsabilités
 - Responsabilités administratives liées à l'enseignement
   - Co-directrice adjointe du département Sciences du Numérique de l'ENSEEIHT depuis septembre 2022
-  - Responsable de la formation Informatique et Réseaux par la voie de l'apprentissage du département Sciences du Numérique de l'ENSEEIHT (septembre 2029 - septembre 2024)
+  - Responsable de la formation Informatique et Réseaux par la voie de l'apprentissage du département Sciences du Numérique de l'ENSEEIHT (septembre 2019 - septembre 2024)
   - Responsable des relations internationales pour le départements Informatique et Mathématiques Appliquées de l'ENSEEIHT (2011-2017).
   - Membre fondateur de la formation par apprentissage en Informatique et Réseaux de l'ENSEEIHT
   - Membre du conseil de département du département Sciences du Numérique de l'ENSEEIHT.
